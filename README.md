@@ -32,8 +32,6 @@ A high-performance, fully customizable pathfinding module.
 - Incomplete parkour abilities (no climbing, vaulting, or wall-hopping yet).
 - `agentWidth` is defined in config but **not yet implemented**.
 - Long-jump system may be unstable in complex maps.
-- Pathfinding may fail when the goal is fully enclosed behind walls (grid connection issue).
-- Occasional indexing errors when invalid start/goal positions are provided.
 - Optimizations for very large grids still in progress.
 
 ---
